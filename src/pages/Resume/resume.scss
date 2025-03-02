@@ -1,0 +1,23 @@
+.resume {
+
+    .top {
+
+    }
+
+    .bottom {
+        font-size: 14px;
+        font-weight: 350;
+
+        .left {
+            flex: 3;
+
+            .summary {
+                padding: 10px;
+            }
+        }
+
+        .right {
+            flex: 3;
+        }
+    }
+}

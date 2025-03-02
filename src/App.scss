@@ -1,0 +1,19 @@
+
+.maincontainer {
+    min-height: 100vh;
+    display: flex;
+
+    .sidebar {
+
+    
+      }
+
+      .content {
+        width: 100%;
+        position: relative;
+        top: 0;          
+        left: 70px;      
+        padding-top: 20px;
+      }
+}
+

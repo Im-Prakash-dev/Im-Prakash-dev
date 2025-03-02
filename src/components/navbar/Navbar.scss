@@ -1,0 +1,43 @@
+.navbar{
+    position: fixed;  
+    top: 0;          
+    left: 0;       
+ 
+    height: 100vh;  
+    background-color: #060508; 
+    padding-top: 20px;
+
+    .profile{
+
+        .prp{
+            border-radius: 60px;
+            border: grey;
+        }
+
+        .prName {
+            
+        }
+    }
+    
+    .menu{
+        span{
+            cursor: pointer;
+            font-size: 21px;
+            color: #aaa0d6;
+        }
+      span:hover {
+        color: #ffffff;
+        transition: 0.3s;
+  
+      }
+
+    }
+
+    .smedia {
+        color: aliceblue;
+        font-size: 16px;
+        cursor: pointer;
+
+        
+    }
+} 
